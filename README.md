@@ -3,8 +3,11 @@ BÁO CÁO BÀI TẬP CUỐI KÌ MÔN LẬP TRÌNH NÂNG CAO
 
 I, Hướng dẫn cài đặt
 Em sẽ hướng dẫn cài đặt trên VISUAL STUDIO
+
 B1: Download phiên bản VISUAL STUDIO 2022 
+
 B2: Liên kết các thư viện SDL và dự án
+
     - Download file zip và giải nén
     - Mở file SDL Game.sln
     - Mở properties của project
@@ -25,9 +28,12 @@ B2: Liên kết các thư viện SDL và dự án
               SDL2_image.lib
               SDL2_mixer.lib
               SDL2_ttf.lib
+              
 B3: Dẫn path vào thư mục lib 
+
 - Mở Edit enviroment variables... 
 - Sau đó vào path -> new -> browser đến các file lib/x64 trong từng thư viện
+
 B4: Thoát ra vào lại và chạy bình thường 
 
 II, Mô tả chung về trò chơi : Game bắn gà
