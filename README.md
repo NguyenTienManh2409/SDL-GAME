@@ -50,6 +50,8 @@ III, Mô tả các chức năng đã cài đặt
 - Có các kẻ địch di chuyển cũng như có đạn bắn.
 - Cuộn background
 
+Link youtube demo: https://youtu.be/f2rQfB0FERw
+
 IV, Các kỹ thuật lập trình được sử dụng trong chương trình
 - Cấu trúc dữ liệu: Mảng, Vector.
 - Làm việc với con trỏ
