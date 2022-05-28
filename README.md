@@ -61,14 +61,14 @@ IV, Các kỹ thuật lập trình được sử dụng trong chương trình
  
 V, Kết luận, hướng phát triển và các điều tâm đắc rút ra được sau khi hoàn thiện chương trình
 
-a, Những kiến thức và kinh nghiệm đã học được sau dự án:
+a, Điều tâm đắc rút ra được sau khi hoàn thiện chương trình 
 
 - Học được cách vận hành của một game, đặc biệt là các game loop
 - Cách sử dụng SDL 2.0 để tạo một chương trình đồ họa có đồ họa và âm thanh
 - Củng cố kiến thức sử dụng ngôn ngữ lập trình C++
 - Kĩ thuật lập trình hướng đối tượng
 - Cách tổ chức các file của project 
-- 
+
 b, Hướng phát triển tiếp theo:
 
 - Thêm một người chơi nữa
@@ -80,7 +80,7 @@ b, Hướng phát triển tiếp theo:
 
 c, Kết luận:
 
-Sau khi hoàn thành dự án game cuối kì này, em học được rất nhiều kiến thức và kinh nghiệm, từ tư duy code, kĩ năng chỉnh sửa ảnh cho đến việc lên ý tưởng, quản lý thời gian. Tuy project còn khá thô sơ nhưng đây là 
+Sau khi hoàn thành dự án game cuối kì này, em học được rất nhiều kiến thức và kinh nghiệm, từ việc lên ý tưởng cho đến việc cách làm việc, quản lý thời gian. Tuy project còn khá thô sơ nhưng đây là project đầu tiên của em nên đã để lại dấu ấn trong cuộc đời em. Và cuối cùng là việc làm game đã tiếp thêm niềm đam mê lập trình cho bản thân em sau này.
     
  
  
