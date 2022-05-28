@@ -26,8 +26,8 @@ B2: Liên kết các thư viện SDL và dự án
               SDL2_mixer.lib
               SDL2_ttf.lib
 B3: Dẫn path vào thư mục lib 
-    - Mở Edit enviroment variables... 
-    - Sau đó vào path -> new -> browser đến các file lib/x64 trong từng thư viện
+- Mở Edit enviroment variables... 
+- Sau đó vào path -> new -> browser đến các file lib/x64 trong từng thư viện
 B4: Thoát ra vào lại và chạy bình thường 
 
 II, Mô tả chung về trò chơi : Game bắn gà
@@ -53,20 +53,20 @@ IV, Các kỹ thuật lập trình được sử dụng trong chương trình
 - Kĩ thuật lập trình hướng đối tượng 
 - Thư viện đồ họa SDL2: SDL2_image-2.0.5, SDL2_mixer-2.0.4, SDL2_ttf-2.0.18, SDL2 2.0.22>
  
- V, Kết luận, hướng phát triển và các điều tâm đắc rút ra được sau khi hoàn thiện chương trình
+V, Kết luận, hướng phát triển và các điều tâm đắc rút ra được sau khi hoàn thiện chương trình
 a, Những kiến thức và kinh nghiệm đã học được sau dự án:
-     - Học được cách vận hành của một game, đặc biệt là các game loop
-     - Cách sử dụng SDL 2.0 để tạo một chương trình đồ họa có đồ họa và âm thanh
-     - Củng cố kiến thức sử dụng ngôn ngữ lập trình C++
-     - Kĩ thuật lập trình hướng đối tượng
-     - Cách tổ chức các file của project 
+- Học được cách vận hành của một game, đặc biệt là các game loop
+- Cách sử dụng SDL 2.0 để tạo một chương trình đồ họa có đồ họa và âm thanh
+- Củng cố kiến thức sử dụng ngôn ngữ lập trình C++
+- Kĩ thuật lập trình hướng đối tượng
+- Cách tổ chức các file của project 
 b, Hướng phát triển tiếp theo:
-     - Thêm một người chơi nữa
-     - Thêm các chức năng pause/resume game
-     - Xử lí thêm các hướng đạn bắn và thêm các item phụ trợ cũng như đa dạng hơn
-     - Cải thiện đồ họa, thêm tính năng tùy chỉnh phi thuyền của người chơi
-     - Một hệ thống tạo độ khó tự chọn
-     - Thêm chức năng high score 
+- Thêm một người chơi nữa
+- Thêm các chức năng pause/resume game
+- Xử lí thêm các hướng đạn bắn và thêm các item phụ trợ cũng như đa dạng hơn
+- Cải thiện đồ họa, thêm tính năng tùy chỉnh phi thuyền của người chơi
+- Một hệ thống tạo độ khó tự chọn
+- Thêm chức năng high score 
 c, Kết luận:
 Sau khi hoàn thành dự án game cuối kì này, em học được rất nhiều kiến thức và kinh nghiệm, từ tư duy code, kĩ năng chỉnh sửa ảnh cho đến việc lên ý tưởng, quản lý thời gian. Tuy project còn khá thô sơ nhưng đây là 
     
