@@ -173,7 +173,7 @@ void init_game::menu(const std::string& item) {
     pos_arr[0].y = SCREEN_HEIGHT - 250;
     text_menu[0].SetRect(pos_arr[0].x, pos_arr[0].y);
 
-    text_menu[1].SetText("Option");
+    text_menu[1].SetText("Information");
     text_menu[1].SetColor(Text::WHITE);
     text_menu[1].loadText_showText(g_font_menu, gRenderer);
     pos_arr[1].x = SCREEN_WIDTH / 2 - text_menu[1].GetRect().w / 2;
@@ -489,7 +489,7 @@ void init_game::handle_game() {
     else {
         if (spaceship.get_status() == false) {
             hint.SetText("Press 'ENTER' to revive !");
-            hint.SetRect(280, SCREEN_HEIGHT / 4);
+            hint.SetRect(310, SCREEN_HEIGHT / 4);
             hint.loadText_showText(g_font_menu, gRenderer);
         }
     }
