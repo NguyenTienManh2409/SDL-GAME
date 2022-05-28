@@ -19,7 +19,7 @@ const int COLOR_KEY_G = 170;
 const int COLOR_KEY_B = 170;
 const int RENDER_DRAW_COLOR = 255;
 
-const int NUMBER_OF_CHICKEN = 12;
+const int NUMBER_OF_CHICKEN = 24;
 const int TOTAL_CHICHKEN = 72;
 const int ONE_TURN_GIFT = 12;
 const int NUMBER_OF_EXP = 3;
